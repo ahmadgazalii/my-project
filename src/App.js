@@ -1,11 +1,15 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Mycomponent from './Mycomponent';
+import Proops from './Proops';
 
 function App() {
   return (
     <div >
-      Hello World
-      
+
+      <Mycomponent />
+      <Proops name="ahmad" />
+
       </div>
   );
 }
