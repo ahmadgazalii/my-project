@@ -9,6 +9,7 @@ function App() {
 
       <Mycomponent />
       <Proops name="ahmad" />
+      <Proops name="muhmmad" />
 
       </div>
   );
